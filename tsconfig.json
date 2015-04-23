@@ -13,6 +13,10 @@
         "!./node_modules/**/*.ts"
     ],
     "files": [
-        "./Settings.ts"
+        "./GameScreenState.ts",
+        "./Phaser/phaser.d.ts",
+        "./PlayerBehavior.ts",
+        "./Settings.ts",
+        "./TitleScreenState.ts"
     ]
 }
