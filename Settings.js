@@ -19,6 +19,3 @@ var GameApp = (function () {
     };
     return GameApp;
 })();
-window.onload = function () {
-    var game = new GameApp();
-};
